@@ -2,3 +2,8 @@ pyqrcode
 pypng
 gtts
 pdfkit
+# dependencies for financial application
+streamlit
+pandas
+plotly
+numpy
